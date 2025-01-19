@@ -1,6 +1,6 @@
 # Generative AI Agent Programs
 
-Welcome to the collection of **10 Generative AI agent programs**! Each program leverages cutting-edge AI tools to create dynamic, multimedia-rich content for various use cases. Below is an overview of each program:
+Welcome to the collection of **20 Generative AI agent programs**! Each program leverages cutting-edge AI tools to create dynamic, multimedia-rich content for various use cases. Below is an overview of each program:
 
 ---
 
@@ -118,6 +118,76 @@ Welcome to the collection of **10 Generative AI agent programs**! Each program l
 - Illustrated panels by Krea AI.
 - Narrated storylines and dialogue.
 - Dynamic motion comics.
+
+---
+
+## 11. AI-Powered Children’s Storybook Creator
+
+**File Name**: `childrens_storybook_creator.py`  
+**Description**: Creates interactive storybooks for children with illustrations, narration, and animations.
+
+---
+
+## 12. Interactive Quiz Creator
+
+**File Name**: `interactive_quiz_creator.py`  
+**Description**: Generates interactive quizzes with dynamic visuals and feedback narration.
+
+---
+
+## 13. Digital Recipe Creator
+
+**File Name**: `digital_recipe_creator.py`  
+**Description**: Creates multimedia recipe videos with step-by-step instructions, narration, and animations.
+
+---
+
+## 14. Travel Vlog Creator
+
+**File Name**: `travel_vlog_creator.py`  
+**Description**: Produces customized travel vlogs with visuals, narration, and music.
+
+---
+
+## 15. Fitness Video Coach
+
+**File Name**: `fitness_video_coach.py`  
+**Description**: Creates personalized fitness videos with narrated workouts and visuals.
+
+---
+
+## 16. Event Invitation Creator
+
+**File Name**: `event_invitation_creator.py`  
+**Description**: Generates multimedia event invitations with visuals, narration, and animations.
+
+---
+
+## 17. Career Portfolio Builder
+
+**File Name**: `career_portfolio_builder.py`  
+**Description**: Generates multimedia career portfolios with animations and narration.
+
+---
+
+## 18. Storytelling Adventure Creator
+
+**File Name**: `storytelling_adventure_creator.py`  
+**Description**: Creates interactive storytelling adventures with visuals, narration, and branching paths.
+
+---
+
+## 19. Learning Module Creator
+
+**File Name**: `learning_module_creator.py`  
+**Description**: Produces interactive learning modules with visuals, narration, and quizzes.
+
+---
+
+## 20. Movie Pitch Creator
+
+**File Name**: `movie_pitch_creator.py`  
+**Description**: Produces multimedia movie pitches with concept art, narration, and animated scenes.
 
 ---
 
