@@ -191,6 +191,76 @@ Welcome to the collection of **20 Generative AI agent programs**! Each program l
 
 ---
 
+## 21. AI-Powered Personalized Podcast Creator
+
+**File Name**: `personalized_podcast_creator.py`  
+**Description**: Generates customized podcast episodes, including scripts, voiceovers, and background music, tailored to user preferences.
+
+---
+
+## 22. AI-Powered Digital Diary Creator
+
+**File Name**: `digital_diary_creator.py`  
+**Description**: Creates multimedia digital diaries with personalized narrations, background visuals, and music to document your thoughts and memories.
+
+---
+
+## 23. AI-Powered Personalized Travel Itinerary Creator
+
+**File Name**: `travel_itinerary_creator.py`  
+**Description**: Develops a detailed travel itinerary with suggested activities, visuals, and interactive video features based on user preferences.
+
+---
+
+## 24. AI-Powered Storytelling for Marketing Campaigns
+
+**File Name**: `storytelling_marketing_creator.py`  
+**Description**: Develops engaging story-based videos for marketing, combining visuals, characters, and a strong narrative.
+
+---
+
+## 25. AI-Powered Event Highlights Creator
+
+**File Name**: `event_highlights_creator.py`  
+**Description**: Produces cinematic highlight reels for special events, integrating user-provided photos, narration, and music into a professional video.
+
+---
+
+## 26. AI-Powered Character Fusion Video Maker
+
+**File Name**: `character_fusion_video_maker.py`  
+**Description**: Combines user-defined character traits to create unique personas, narrating their story in a video format.
+
+---
+
+## 27. AI-Powered Cinematic Book Trailer Creator
+
+**File Name**: `book_trailer_creator.py`  
+**Description**: Produces engaging book trailers by combining visuals, narration, and motion effects, perfect for promoting novels or stories.
+
+---
+
+## 28. AI-Powered Storytelling for Marketing Campaigns
+
+**File Name**: `storytelling_adventure_creator.py`  
+**Description**: Develops engaging story-based videos for marketing, combining visuals, characters, and a strong narrative.
+
+---
+
+## 29. AI-Powered Personalized Learning Video Creator
+
+**File Name**: `learning_video_creator.py`  
+**Description**: Generates educational videos with narrations, visuals, and animations for topics ranging from school lessons to professional training.
+
+---
+
+## 30. AI-Powered Animated Children’s Story Creator
+
+**File Name**: `animated_children_story_creator.py`  
+**Description**: Creates personalized animated story videos for kids with colorful visuals, playful music, and moral lessons.
+
+---
+
 ## Installation and Usage
 
 1. Clone or download this repository.
