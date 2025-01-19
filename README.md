@@ -298,7 +298,6 @@ Welcome to the collection of **30 Generative AI agent programs**! Each program l
 
 ````bash
   python <file_name>.py
-  ```
 ````
 ---
 
@@ -323,6 +322,7 @@ Welcome to the collection of **30 Generative AI agent programs**! Each program l
 
 **Srikanth Dhondi**
 **[LinkedIn Profile](https://www.linkedin.com/in/srikanthdhondi/)**
+
 Srikanth is passionate about creating innovative AI-driven solutions that simplify complex tasks and enhance creativity.
 
 ---
