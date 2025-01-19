@@ -1,6 +1,6 @@
 # Generative AI Agent Programs
 
-Welcome to the collection of **20 Generative AI agent programs**! Each program leverages cutting-edge AI tools to create dynamic, multimedia-rich content for various use cases. Below is an overview of each program:
+Welcome to the collection of **30 Generative AI agent programs**! Each program leverages cutting-edge AI tools to create dynamic, multimedia-rich content for various use cases. Below is an overview of each program:
 
 ---
 
@@ -261,6 +261,17 @@ Welcome to the collection of **20 Generative AI agent programs**! Each program l
 
 ---
 
+## **Features**
+- **Scripts & Ideation**: ChatGPT generates dynamic scripts and storylines.
+- **Image Generation**: MidJourney, Flux, and Krea AI produce vibrant visuals.
+- **Image Upscaling**: Magnific enhances images to cinematic quality.
+- **Video Generation**: Runway, Luma, and Sora create polished video outputs.
+- **Music & Sound Effects**: Artlist and Suno provide thematic music and effects.
+- **Text-to-Speech**: ElevenLabs delivers professional voiceovers.
+- **Talking Avatars & Characters**: HeyGen and Pinokio generate interactive avatars.
+
+---
+
 ## Installation and Usage
 
 1. Clone or download this repository.
@@ -271,7 +282,24 @@ Welcome to the collection of **20 Generative AI agent programs**! Each program l
    python <file_name>.py
    ```
 5. Follow the prompts to generate your personalized content.
+---
+## Getting Started
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/srikant/Generative-AI-Agent-Programs.git
+   cd Generative-AI-Agent-Programs
+   ```
+2. Install any required dependencies listed in each script using
+   ```bash
+   pip install <dependency>
+   ```
+3. Run the desired program
+
+````bash
+  python <file_name>.py
+  ```
+````
 ---
 
 ## Requirements
@@ -296,6 +324,12 @@ Welcome to the collection of **20 Generative AI agent programs**! Each program l
 **Srikanth Dhondi**
 **[LinkedIn Profile](https://www.linkedin.com/in/srikanthdhondi/)**
 Srikanth is passionate about creating innovative AI-driven solutions that simplify complex tasks and enhance creativity.
+
+---
+
+## Contributing
+
+Feel free to contribute by submitting pull requests to improve the programs or add new features.
 
 ---
 
