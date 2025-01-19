@@ -1,3 +1,4 @@
+![Generative AI Agent Programs](./GENERATIVE_AI_AGENT_PROGRAMS_Srikanth_Dhondi.jpg?raw=true "Generative AI Agent Programs")
 # Generative AI Agent Programs
 
 Welcome to the collection of **30 Generative AI agent programs**! Each program leverages cutting-edge AI tools to create dynamic, multimedia-rich content for various use cases. Below is an overview of each program:
